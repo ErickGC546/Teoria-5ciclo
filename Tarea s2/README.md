@@ -13,36 +13,29 @@
 
 ### 💡 ¿Qué aprendí de mí mismo/a con el test y el mapa vocacional?
 - 🤹 Que disfruto la creatividad técnica (código + diseño)
-- 🎨 Que me motiva el impacto visual directo en el usuario
+- 🎨 Que me motiva el impacto visual
 
 ## 🗺️ Parte 2: Mapa personal
 
 ### 💪 Mapa de fortalezas y pasiones
 
 **🔧 Lo que sé hacer bien (habilidades):**
-- 📱 Maquetar interfaces responsive (HTML/CSS)
-- 🎯 Implementar diseños pixel-perfect
-- 🐞 Debuggar código frontend
+- 📱 Programar en HTML, CSS, JavaScript y React
+- 🎯 Jugar videojuegos
+- 🐞 Diseñar interfaces atractivas y responsivas
 
 **❤️ Lo que disfruto hacer (pasiones):**
-- ✨ Crear experiencias de usuario fluidas
-- 🎨 Jugar con colores y tipografías
-- 👥 Trabajar en equipo (hackathones, proyectos)
+- ✨ Explorar nuevas tecnologías frontend
+- 🎯 Jugar videojuegos
+- 👥 Trabajar en equipo
+- 🎶 Escuchar música mientras programo
 
 **🌱 Lo que me gustaría aprender (curiosidades):**
-- ♿ Accesibilidad web (WCAG)
-- 🏗️ Animaciones con GSAP/Three.js
+- 🔄 Animaciones avanzadas con CSS y GSAP
+- 🌐 Web performance y accesibilidad
 - 🔍 UX Research básico
 
 ## 🌟 Áreas del software que más se relacionan:
 - 🖥️ Desarrollo Frontend (Web/Móvil)
 - 🎨 UI/UX Design
-- 💫 Diseño de interacción
-
-## 💡 Bonus
-Para destacar, podrías explorar:
-- 🤖 Tecnologías emergentes (Web Components)
-- 🧩 Low-code (como Webflow)
-- ♾️ Diseño inclusivo
-
-¡El frontend es tu lienzo digital! 🎨🚀
+- 🌐 Desarrollo web interactivo
