@@ -1,19 +1,15 @@
-# 💫 Mapa Vocacional - Diseño y Desarrollo de Software (Frontend)
+# 💫 Descubriendo mi lugar en el mundo del Software
 
 ## 🌟 Parte 1: Reflexión vocacional
 
 ### 🎯 ¿Qué parte del software me llama más la atención y por qué?
-- **🖥️ Frontend/UI/UX**: Me encanta crear interfaces visuales interactivas porque combina 🎨 diseño + 🧠 lógica, y me permite ver resultados ✨ tangibles que impactan directamente al usuario.
+- **🖥️ Frontend/UI/UX**: Me gusta crear interfaces visuales interactivas porque combina 🎨 diseño + 🧠 lógica, y me permite ver resultados ✨ tangibles que impactan directamente al usuario.
 
 ### 🛠️ ¿Cómo se relacionan mis habilidades con esa área?
-- 💻 Traducir diseños a código (HTML/CSS/JS)
-- 👁️ Sensibilidad estética y atención al detalle
-- 🧩 Resolver problemas de usabilidad
+- 💻 Tengo habilidades en HTML, CSS y JavaScript, además de experiencia con React y el diseño de interfaces personalizadas.
 
 ### 🚀 ¿Qué me gustaría explorar o probar en los próximos meses?
-- ⚛️ Frameworks como React o Vue.js
-- 🎬 Microinteracciones y animaciones (CSS/JS)
-- ✏️ Prototipado en Figma/Adobe XD
+- ⚛️ Me gustaría aprender más sobre animaciones CSS, mejorar mis habilidades con frameworks modernos como Next.js y profundizar en UX/UI.
 
 ### 💡 ¿Qué aprendí de mí mismo/a con el test y el mapa vocacional?
 - 🤹 Que disfruto la creatividad técnica (código + diseño)
