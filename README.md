@@ -1,5 +1,3 @@
-# 💫 Mapa Vocacional - Diseño y Desarrollo de Software (Frontend)
-
 ## 🌟 Parte 1: Reflexión vocacional
 
 ### 🎯 ¿Qué parte del software me llama más la atención y por qué?
