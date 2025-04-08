@@ -1,4 +1,4 @@
-# 📝 Reflexión Personal – Parte 1
+# 📝 Reflexión Personal
 
 ## ✨ ¿Qué límites mentales siento que cargo hoy?
 
@@ -18,11 +18,11 @@ Siento que heredé cierta rigidez mental. Me cuesta adaptarme a los cambios repe
 
 ---
 
-# 🔍 Análisis de Otro – Parte 2
+# 🔍 Análisis de Otro
 
 ## 💎 Fortalezas heredadas
 
-Mi compañera/amiga tiene una calidez que claramente ha heredado de su familia 🫶. Tiene una gran capacidad de escucha activa y siempre hace sentir a los demás comprendidos y bienvenidos. También destaca por su persistencia: cuando se propone algo, no se rinde fácilmente. Esa fuerza interior, pienso, viene de ver a su familia superar desafíos grandes con mucho amor y unión ❤️‍🔥.
+Mi compañero tiene una calidez que claramente ha heredado de su familia 🫶. Tiene una gran capacidad de escucha activa y siempre hace sentir a los demás comprendidos y bienvenidos. También destaca por su persistencia: cuando se propone algo, no se rinde fácilmente. Esa fuerza interior, pienso, viene de ver a su familia superar desafíos grandes con mucho amor y unión ❤️‍🔥.
 
 ## ⚠️ Debilidades heredadas
 
