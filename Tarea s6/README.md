@@ -29,4 +29,4 @@ Ser constante en mis compromisos personales y académicos 🌱.
 
 ## 🗺️ Parte 3: Ruta visual de crecimiento
 
-**Enlace al tablero de Trello:** https://trello.com/invite/b/6807e63c347baecc7453c005/ATTI0b653c6ec542cbc6f0de2ad234dbd3a8E7D2E826/mi-ruta-de-crecimiento-✨
+**Enlace al tablero de Trello:** https://trello.com/b/MzesFJnl/mi-ruta-de-crecimiento-✨
