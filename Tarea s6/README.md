@@ -27,3 +27,6 @@ Ser constante en mis compromisos personales y académicos 🌱.
 - Celebraré pequeños logros para mantenerme motivado 🎉.  
 - Reservaré tiempo para mí y evitar el agotamiento 🧘‍♂️.
 
+## 🗺️ Parte 3: Ruta visual de crecimiento
+
+**Enlace al tablero de Trello:** https://trello.com/invite/b/6807e63c347baecc7453c005/ATTI0b653c6ec542cbc6f0de2ad234dbd3a8E7D2E826/mi-ruta-de-crecimiento-✨
