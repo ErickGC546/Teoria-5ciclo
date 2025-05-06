@@ -18,13 +18,24 @@ Admiro muchísimo a mi mamá ❤️. Siempre habla desde la calma, escucha prime
 
 ## 🛠️ Parte 2: Estrategia personal de resolución
 
-💬 **Frase que quiero recordar para no reaccionar impulsivamente:**  
+💬 **Frases que quiero recordar para no reaccionar impulsivamente:**  
 🧘‍♂️ “Respira. Escucha. Luego responde.”  
+🧊 “No tomes nada personal, cada quien habla desde su mundo.”  
+🕊️ “Pausa. No estás en guerra.”  
+💡 “¿Lo que voy a decir ayuda o solo descarga mi enojo?”  
 
-🤝 **Habilidad que quiero practicar:**  
-🎧 **Escucha activa**: quiero aprender a entender antes de querer ser entendido.
+🤝 **Habilidades que quiero practicar:**  
+🎧 **Escucha activa:** prestar atención real sin interrumpir ni pensar en mi respuesta mientras escucho.  
+🕯️ **Comunicación no violenta:** expresar cómo me siento sin atacar o culpar.  
+🧩 **Gestión emocional:** identificar lo que siento antes de actuar por impulso.  
+🧠 **Pensamiento empático:** ponerme en el lugar del otro antes de juzgar.  
 
-🧪 **Próximo conflicto que puedo practicar resolver mejor:**  
-Una charla pendiente con un compañero sobre el reparto de trabajo en un proyecto 💼. Quiero expresar mis ideas sin enojo y buscar acuerdos reales.
+🧪 **Próximos conflictos que puedo practicar resolver mejor:**  
+📚 Un desacuerdo con un profesor o tutor sobre una calificación.  
+👥 Una diferencia de ideas en un trabajo en equipo.  
+🏠 Un malentendido familiar por temas de horarios o responsabilidades.  
+💬 Un comentario que me incomodó de alguien cercano, pero que aún no he abordado.  
 
 ---
+
+
