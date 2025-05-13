@@ -16,22 +16,29 @@ Me organizaría desde el día uno, sin esperar a sentirme abrumado/a. También i
 
 ---
 
-## Parte 2: 🎯 Mi nuevo plan de acción
+## 🎯 Parte 2: Mi nuevo plan de acción
 
 ✅ **Meta personal o académica para las siguientes semanas:**  
-Terminar mis tareas con más anticipación y tener tiempo para repasar o mejorar lo que hago.
-Participar más en clase para reforzar mi confianza al hablar en público 🎤.
+Terminar mis tareas con más anticipación y tener tiempo para repasar o mejorar lo que hago.  
+
+Participar más en clase para reforzar mi confianza al hablar en público 🎤.  
+
 Dormir al menos 7 horas para rendir mejor en clase y estar de mejor ánimo 😴.
 
+---
 
 🔁 **Hábito que voy a incorporar o fortalecer:**  
-Revisar mis pendientes cada noche y planificar el siguiente día durante 10-15 minutos 📅.
-Escribir un mini resumen diario de lo que aprendí ese día 📓. 
-Establecer una rutina nocturna que me ayude a desconectarme del celular una hora antes de dormir 📵. 
+Revisar mis pendientes cada noche y planificar el siguiente día durante 10-15 minutos 📅.  
 
-🌈 **Compromiso conmigo mismo/a:**  
-Ser paciente con mi proceso, celebrar los pequeños logros y no compararme con los demás 💖.
-Darme permiso de descansar sin sentir culpa 💤.
-Aceptar que equivocarme es parte del aprendizaje y no juzgarme tan duro 💛.
+Escribir un mini resumen diario de lo que aprendí ese día 📓.  
+
+Establecer una rutina nocturna que me ayude a desconectarme del celular una hora antes de dormir 📵.
 
 ---
+
+🌈 **Compromiso conmigo mismo/a:**  
+Ser paciente con mi proceso, celebrar los pequeños logros y no compararme con los demás 💖.  
+
+Darme permiso de descansar sin sentir culpa 💤.  
+
+Aceptar que equivocarme es parte del aprendizaje y no juzgarme tan duro 💛.
